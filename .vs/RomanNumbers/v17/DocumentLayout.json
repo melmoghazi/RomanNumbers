@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sourcecontrol\\mygithub\\RomanNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA9A8C3-B3E1-435E-BF8F-C503FE3C5AF1}|RomanNumbers\\RomanNumbers.csproj|e:\\sourcecontrol\\mygithub\\romannumbers\\romannumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA9A8C3-B3E1-435E-BF8F-C503FE3C5AF1}|RomanNumbers\\RomanNumbers.csproj|solutionrelative:romannumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sourcecontrol\\mygithub\\RomanNumbers\\RomanNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "RomanNumbers\\Program.cs",
+              "ToolTip": "E:\\sourcecontrol\\mygithub\\RomanNumbers\\RomanNumbers\\Program.cs",
+              "RelativeToolTip": "RomanNumbers\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwI8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:34:16.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
